@@ -1,2 +1,2 @@
 # SetupJr
-Esse repositório vai ser de posts de projetos que fiz enquanto fui estágiario na SetupJr
+Esse repositório temo propósito para posts dos projetos que vou fazer enquanto fui estágiario na SetupJr.
